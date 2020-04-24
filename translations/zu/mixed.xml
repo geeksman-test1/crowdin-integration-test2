@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_1">crwdns1007848:0crwdne1007848:0</string>
+    <string name="string_2">crwdns1007849:0crwdne1007849:0</string>
+    <string name="string_1">crwdns1007850:0ratio={ratio}crwdnd1007850:0ratio={ratio}crwdne1007850:0</string>
+    <string name="string_2">crwdns1007851:0numCats={numCats}crwdne1007851:0</string>
+    <plurals name="cats">
+        <item quantity="one">crwdns1007852:1crwdne1007852:1</item>
+        <item quantity="other">crwdns1007852:5crwdne1007852:5</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cats">
+        <item quantity="zero">cats</item>
+        <item quantity="one">cat</item>
+        <item quantity="two">cats</item>
+        <item quantity="few">cats</item>
+        <item quantity="many">cats</item>
+        <item quantity="other">cats</item>
+    </plurals>
+</resources>
