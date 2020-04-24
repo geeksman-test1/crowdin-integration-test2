@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cats">
+        <item quantity="one">crwdns1007855:1crwdne1007855:1</item>
+        <item quantity="other">crwdns1007855:5crwdne1007855:5</item>
+    </plurals>
+</resources>
