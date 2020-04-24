@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string>Used {ratio, plural, =0 {none} =1 {all} other {{ratio, number, percent}}} of their items.</string>
+</resources>
