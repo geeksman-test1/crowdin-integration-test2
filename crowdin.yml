@@ -1,0 +1,4 @@
+files:
+  - source: /sources/*
+    translation: /translations/%two_letters_code%/%original_file_name%
+    content_segmentation: 0
